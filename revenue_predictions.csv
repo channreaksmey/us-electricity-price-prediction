@@ -1,0 +1,73 @@
+stateDescription,sectorName,date,predicted_revenue
+Alabama,all sectors,2025-01,950.80615
+Alabama,all sectors,2025-02,882.5706
+Alabama,all sectors,2025-03,849.1898
+Alabama,all sectors,2025-04,805.1371
+Alabama,all sectors,2025-05,844.571
+Alabama,all sectors,2025-06,989.27997
+Alabama,all sectors,2025-07,1080.0581
+Alabama,all sectors,2025-08,1092.6758
+Alabama,all sectors,2025-09,968.24084
+Alabama,all sectors,2025-10,802.87195
+Alabama,all sectors,2025-11,798.8302
+Alabama,all sectors,2025-12,824.8243
+Alabama,commercial,2025-01,260.84952
+Alabama,commercial,2025-02,249.7482
+Alabama,commercial,2025-03,249.5945
+Alabama,commercial,2025-04,244.90942
+Alabama,commercial,2025-05,248.72845
+Alabama,commercial,2025-06,284.239
+Alabama,commercial,2025-07,309.8108
+Alabama,commercial,2025-08,313.92273
+Alabama,commercial,2025-09,285.96625
+Alabama,commercial,2025-10,247.23183
+Alabama,commercial,2025-11,236.7782
+Alabama,commercial,2025-12,233.43166
+Alabama,industrial,2025-01,186.60617
+Alabama,industrial,2025-02,180.2513
+Alabama,industrial,2025-03,181.82497
+Alabama,industrial,2025-04,168.45323
+Alabama,industrial,2025-05,194.32314
+Alabama,industrial,2025-06,205.65988
+Alabama,industrial,2025-07,207.39093
+Alabama,industrial,2025-08,207.96516
+Alabama,industrial,2025-09,186.0283
+Alabama,industrial,2025-10,184.2015
+Alabama,industrial,2025-11,190.49702
+Alabama,industrial,2025-12,178.23409
+Alabama,other,2025-01,4.5514007
+Alabama,other,2025-02,4.261427
+Alabama,other,2025-03,4.407263
+Alabama,other,2025-04,4.570293
+Alabama,other,2025-05,4.8474317
+Alabama,other,2025-06,4.843192
+Alabama,other,2025-07,5.09768
+Alabama,other,2025-08,5.121127
+Alabama,other,2025-09,4.8426123
+Alabama,other,2025-10,5.0629354
+Alabama,other,2025-11,4.624951
+Alabama,other,2025-12,4.7881694
+Alabama,residential,2025-01,503.536
+Alabama,residential,2025-02,459.0869
+Alabama,residential,2025-03,430.1121
+Alabama,residential,2025-04,413.5894
+Alabama,residential,2025-05,433.35776
+Alabama,residential,2025-06,514.9454
+Alabama,residential,2025-07,562.61176
+Alabama,residential,2025-08,566.2375
+Alabama,residential,2025-09,506.9169
+Alabama,residential,2025-10,399.8145
+Alabama,residential,2025-11,399.7258
+Alabama,residential,2025-12,443.89984
+Alabama,transportation,2025-01,0.0
+Alabama,transportation,2025-02,0.0
+Alabama,transportation,2025-03,0.0
+Alabama,transportation,2025-04,0.0
+Alabama,transportation,2025-05,0.0
+Alabama,transportation,2025-06,0.0
+Alabama,transportation,2025-07,0.0
+Alabama,transportation,2025-08,0.0
+Alabama,transportation,2025-09,0.0
+Alabama,transportation,2025-10,0.0
+Alabama,transportation,2025-11,0.0
+Alabama,transportation,2025-12,0.0
